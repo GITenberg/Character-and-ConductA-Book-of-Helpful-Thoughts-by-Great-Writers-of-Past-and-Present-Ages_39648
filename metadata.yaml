@@ -1,0 +1,37 @@
+_repo: Character-and-ConductA-Book-of-Helpful-Thoughts-by-Great-Writers-of-Past-and-Present-Ages_39648
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Whishaw, Constance M.
+    aliases:
+    - Whishaw, C. M. (Constance M.)
+    - Whishaw, Constance Mary
+    gutenberg_agent_id: '40128'
+    url: http://www.gutenberg.org/2009/agents/40128
+  illustrator:
+    agent_name: Poynter, Edward John
+    alias: Poynter, Edward J.
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '36685'
+    url: http://www.gutenberg.org/2009/agents/36685
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calendars'
+- !lcc 'BJ'
+- !lcsh 'Meditations'
+title: 'Character and Conduct
+
+  A Book of Helpful Thoughts by Great Writers of Past and Present Ages'
+url: http://www.gutenberg.org/ebooks/39648
